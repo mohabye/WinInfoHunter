@@ -25,6 +25,9 @@
 - **System Information**: General system details.
 - **WMI Scripts**: Lists WMI scripts run in the last 24 hours.
 
+![image](https://github.com/user-attachments/assets/32550cba-ffea-4a61-850b-b63a4010ede1)
+
+
 ## Installation
 
 Ensure you have PowerShell installed. For PowerShell 5.1 or higher, the `ImportExcel` module is required to export data to CSV. If you don’t have this module installed, you can install it using:
@@ -32,5 +35,4 @@ Ensure you have PowerShell installed. For PowerShell 5.1 or higher, the `ImportE
 ```powershell
 Install-Module -Name ImportExcel -Scope CurrentUser
 
-![image](https://github.com/user-attachments/assets/f39cac1c-28d9-4a8d-acff-580cb5502073)
 
