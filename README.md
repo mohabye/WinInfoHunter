@@ -31,3 +31,6 @@ Ensure you have PowerShell installed. For PowerShell 5.1 or higher, the `ImportE
 
 ```powershell
 Install-Module -Name ImportExcel -Scope CurrentUser
+
+![image](https://github.com/user-attachments/assets/f39cac1c-28d9-4a8d-acff-580cb5502073)
+
